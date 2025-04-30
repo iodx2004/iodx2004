@@ -39,13 +39,13 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&v
 
   </div>
   <div align="center">
-  <img src="https://wakatime.com/share/@K1rsN7/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
+  <img src="https://wakatime.com/share/@iodx2004/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
   </div>
 
 <div align="center">
 <br>
 <p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{K1rsN7}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{iodx2004}/count.svg" /></p> 
 </div>
 <br>
 </details>

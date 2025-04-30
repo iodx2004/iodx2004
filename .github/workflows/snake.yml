@@ -65,7 +65,7 @@ jobs:
           publish_branch: output
           commit_message: "Update snake animation [skip ci]"
 
-      # Step 8: Log Non-Iodx2004 Message
+      # Step 8: Log Non-Iodx2004 Message 
       - name: Log Non-Iodx2004 Message
         if: env.IS_IODX2004 == 'false'
         run: echo "Skipping generation because the username is not iodx2004."

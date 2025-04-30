@@ -5,7 +5,8 @@
 ![Typing
 SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+Bekkali;I'm+from+Morocco;I'm+a+Software+Enginner;Welcome+To+My+Account!+ツ)
 
-<img width="25%" align="right" alt="Github Image" src="https://www.behance.net/gallery/92880429/ROG-Wallpaper-Design/modules/536745309" />
+<img width="25%" align="right" alt="Github Image" src="![image](https://github.com/user-attachments/assets/ad2d3c5a-9899-47b6-99a3-f8301a64dca3)
+" />
 
 - 🔭 I’m currently working on *expanding my programming skills and knowledge, especially in C/C++ Language.*
 

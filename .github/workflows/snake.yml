@@ -1,13 +1,16 @@
+name: Generate Snake Animation and Update README
+
+# Trigger the workflow on pushes to the main branch or manually
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Run daily at midnight UTC
+  workflow_dispatch: # Allow manual triggering
   push:
     branches:
       - main
 
 jobs:
-  generate:
+  update-readme:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
@@ -16,56 +19,42 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Debug Repository Owner
-      - name: Debug Repository Owner
-        run: echo "Repository Owner: ${{ github.repository_owner }}"
-
-      # Step 3: Check if the GitHub username is 'iodx2004'
-      - name: Check Username
-        id: check_username
-        run: |
-          USERNAME=${{ github.repository_owner }}
-          if [ "$USERNAME" == "iodx2004" ]; then
-            echo "Username is iodx2004"
-            echo "IS_IODX2004=true" >> $GITHUB_ENV
-          else
-            echo "Username is not iodx2004"
-            echo "IS_IODX2004=false" >> $GITHUB_ENV
-          fi
-
-      # Step 4: Create Output Directory
-      - name: Create Output Directory
-        run: mkdir -p dist
-
-      # Step 5: Generate the snake animations (only if username is 'iodx2004')
-      - name: Generate GitHub Contributions Snake Animations
-        if: env.IS_IODX2004 == 'true'
+      # Step 2: Generate the snake animation
+      - name: Generate GitHub Contributions Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 6: Debug Generated Files
+      # Step 3: Debug Generated Files
       - name: Debug Generated Files
-        if: env.IS_IODX2004 == 'true'
         run: ls -R dist
 
-      # Step 7: Deploy the generated files to the 'output' branch (only if username is 'iodx2004')
-      - name: Deploy to Output Branch
-        if: env.IS_IODX2004 == 'true'
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          commit_message: "Update snake animation [skip ci]"
+      # Step 4: Update README.md with the snake animation
+      - name: Update README.md
+        run: |
+          # Ensure README.md exists
+          if [ ! -f README.md ]; then
+            echo "# My GitHub Contributions Snake Animation" > README.md
+          fi
 
-      # Step 8: Log Non-Iodx2004 Message 
-      - name: Log Non-Iodx2004 Message
-        if: env.IS_IODX2004 == 'false'
-        run: echo "Skipping generation because the username is not iodx2004."
+          # Add or replace the snake animation in README.md
+          sed -i '/<!-- START-SNAKE-ANIMATION -->/,/<!-- END-SNAKE-ANIMATION -->/d' README.md
+          cat <<EOT >> README.md
+
+<!-- START-SNAKE-ANIMATION -->
+![GitHub Contributions Snake Animation](dist/github-snake.svg)
+<!-- END-SNAKE-ANIMATION -->
+EOT
+
+      # Step 5: Commit and push the updated README.md
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README with GitHub Contributions Snake Animation" || echo "No changes to commit"
+          git push

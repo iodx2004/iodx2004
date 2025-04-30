@@ -29,4 +29,4 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&v
 <!--### 🚀 GitHub Contribution Graph: -->
 <p align="center">
   <a href="https://github.com/KanekiEzz;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iodx2004&bg_color=FFDE21&color=9745f5&line=ff7b72&point=f8d866&area=true&hide_border=true" alt="GitHub Contribution Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iodx2004&bg_color=f0000&color=9745f5&line=FFDE21&point=f8d866&area=true&hide_border=true" alt="GitHub Contribution Graph">

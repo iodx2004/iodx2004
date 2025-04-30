@@ -26,4 +26,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&v
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iodx2004&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
+<!--### 🚀 GitHub Contribution Graph: -->
+<p align="center">
+  <a href="https://github.com/KanekiEzz;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iodx2004&bg_color=FFDE21&color=9745f5&line=ff7b72&point=f8d866&area=true&hide_border=true" alt="GitHub Contribution Graph">

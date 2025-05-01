@@ -51,7 +51,10 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&v
 </details>
 <div align="center">
 <br>
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20%&pause=1000&color=FFDE21&center=true&vCenter=true&width=500&height=20%&lines=Thank+you+for+visiting!+😉;I'm+waiting for+your+Visit+Again!+❤️‍🔥;Have+a+good+day!+🌄" alt="Typing SVG" /></a>
+
+![Typing
+SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&vCenter=true&width=1000&lines=Have+a+Nice+Day+😉;Thank+U+For+Ur+Visiting!+🔎)
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFDE21&height=70&section=footer"/>

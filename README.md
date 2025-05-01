@@ -37,11 +37,6 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&v
   <source media="(prefers-color-scheme: bleu)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
 
-  </div>
-  <div align="center">
-  <img src="https://wakatime.com/share/@iodx2004/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
-  </div>
-
 <div align="center">
 <br>
 <p align="centre"><b>Visitors Count</b></p>  

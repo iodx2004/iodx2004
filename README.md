@@ -3,7 +3,7 @@
 </a>
 
 ![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+Bekkali;I'm+from+Morocco;I'm+a+Software+Enginner;Welcome+To+My+Account!+ツ)
+SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+Bekkali;I'm+from+Morocco;I'm+a+Software+Enginner+Beginner;I+Will+Become+Game+Developper;Expert;Welcome+To+My+Account!+ツ)
 
 <img width="25%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/anime.gif" />
 

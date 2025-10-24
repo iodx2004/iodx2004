@@ -14,7 +14,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🎓 CS50 Certificate
+### 🎓 My Certificates
 [![CS50 Certificate](https://img.shields.io/badge/CS50-Harvard-blue?logo=harvard&logoColor=white)](https://cs50.harvard.edu/certificates/a50df31a-531d-42fb-b633-1774dd6469a1)
 
 ---

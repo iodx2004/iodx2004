@@ -52,9 +52,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iodx2004&bg_color=000000&color=9745f5&line=FFDE21&point=f8d866&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
+<!-- SNAKE-ACTIVITY-START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/iodx2004/iodx2004/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
+<!-- SNAKE-ACTIVITY-END -->
 
 ---
 

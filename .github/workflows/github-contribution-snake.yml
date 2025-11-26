@@ -1,0 +1,69 @@
+name: GitHub Contribution Snake Animation
+
+# This workflow generates a snake animation of the user's GitHub contributions
+# and updates the README with the latest version
+on: 
+  schedule:
+    - cron: "0 0 * * *"  # Run daily at midnight UTC
+  workflow_dispatch:     # Allow manual triggering
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 2: Generate the snake animation
+      - name: Generate GitHub Contributions Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 3: Create output directory and copy the snake animation
+      - name: Prepare Snake Animation for GitHub Pages
+        run: |
+          # Create output directory if it doesn't exist
+          mkdir -p output
+          
+          # Copy the generated snake to the output directory
+          if [ -f dist/github-contribution-grid-snake.svg ]; then
+            cp dist/github-contribution-grid-snake.svg output/github-contribution-grid-snake.svg
+            echo "Snake animation copied successfully"
+          else
+            echo "Warning: Snake animation file not found, creating a placeholder"
+            echo "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"800\" height=\"200\"><text x=\"400\" y=\"100\" font-family=\"monospace\" font-size=\"14\" fill=\"white\" text-anchor=\"middle\">GitHub Contribution Snake Animation</text></svg>" > output/github-contribution-grid-snake.svg
+          fi
+
+      # Step 4: Update README with the correct snake animation URL
+      - name: Update README with Snake Animation
+        run: |
+          # Replace the snake animation URL in README.md with the correct repository reference
+          sed -i "s|https://raw.githubusercontent.com/iodx2004/iodx2004/output/github-contribution-grid-snake.svg|https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.event.repository.name }}/main/output/github-contribution-grid-snake.svg|g" README.md
+
+      # Step 5: Commit and push changes if there are any
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Add all changes
+          git add .
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update contribution snake animation [skip ci]"
+            git push
+            echo "Changes committed and pushed successfully"
+          fi

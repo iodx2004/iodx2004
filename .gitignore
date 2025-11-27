@@ -1,4 +1,4 @@
 ```
-# GitHub workflow artifacts
-.github/workflows/
+# Backup files
+*.backup
 ```

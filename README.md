@@ -5,6 +5,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+Bekkali+👋;I'm+from+Morocco+🇲🇦;I'm+a+Software+Engineer+Beginner+💻;I+Will+Become+Game+Developer+Expert+👾;Welcome+To+My+Account!+ツ)
 
+Thank You For Visiting Have a Nice day
+
 <img width="25%" align="right" alt="Anime GIF" src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/anime.gif" />
 
 - 🔭 I’m currently working on expanding my programming skills, especially in **Godot Engine, C++, and C**.
@@ -151,3 +153,7 @@
 _Live count updated on: 2025-11-27 10:34:22_
 
 </div>
+
+<a href="#">
+  <img width="100%" src=" https://capsule-render.vercel.app/api?type=waving&color=FFDE21&height=120&section=footer" />
+</a>

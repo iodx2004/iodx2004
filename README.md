@@ -114,4 +114,4 @@
 
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&vCenter=true&width=1000&lines=Have A Nice Day !+Thanks For Visiting :) !)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&vCenter=true&width=1000&lines=Have+A+Nice+Day !;Thank+You+For+Visiting !)

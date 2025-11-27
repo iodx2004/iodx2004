@@ -1,4 +1,35 @@
 ```
-# Backup files
-*.backup
+# Compiled and build artifacts
+*.pyc
+__pycache__/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+htmlcov/
+.coverage
+
+# MyPy cache
+.mypy_cache/
+
+# Pytest cache
+.pytest_cache/
+
+# Distribution files
+dist/
+build/
+*.egg-info/
 ```

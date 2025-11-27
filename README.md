@@ -114,4 +114,10 @@
 
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&vCenter=true&width=1000&lines=Have+A+Nice+Day !;Thank+You+For+Visiting !)
+---
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&vCenter=true&width=1000&lines=Thank+You+For+Visiting+Have+a+Nice+day)
+
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFDE21&height=120&section=footer" />
+</a>

@@ -1,4 +1,7 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=0-don&theme=onedark&column=-1)
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFDE21&height=120&section=header" />
+</a>
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+Bekkali+👋;I'm+from+Morocco+🇲🇦;I'm+a+Software+Engineer+Beginner+💻;I+Will+Become+Game+Developer+Expert+👾;Welcome+To+My+Account!+ツ)
 
@@ -108,9 +111,6 @@
 
 ---
 
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFDE21&height=120&section=header" />
-</a>
 
 
 ## 💻 Tech Stack

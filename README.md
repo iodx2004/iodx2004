@@ -139,12 +139,15 @@
 
 </div>
 
----
+## 📊 Code Statistics
+<div align="center">
 
-<br>
+**Total Lines of Code: 361**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&vCenter=true&width=1000&lines=Have+a+Nice+Day+😉;Thank+You+For+Visiting!+🔎)
+- **Python**: 274 lines (75.9%)
+- **Shell**: 83 lines (23.0%)
+- **Other**: 4 lines (1.1%)
 
-<br>
+_Live count updated on: 2025-11-27 10:34:22_
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFDE21&height=70&section=footer"/>
+</div>

@@ -1,0 +1,487 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="148">
+  <rect width="820" height="148" fill="#0d1117" />
+  <g fill="#161b22">
+    <!-- GitHub contribution grid (sample) -->
+    <rect x="20" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="40" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="60" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="80" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="100" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="120" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="140" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="160" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="180" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="200" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="220" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="240" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="260" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="280" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="300" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="320" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="340" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="360" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="380" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="400" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="420" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="440" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="460" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="480" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="500" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="520" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="540" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="560" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="580" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="600" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="620" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="640" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="660" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="680" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="700" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="720" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="740" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="760" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="780" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="800" y="20" width="10" height="10" rx="2" ry="2"/>
+    <rect x="20" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="40" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="60" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="80" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="100" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="120" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="140" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="160" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="180" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="200" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="220" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="240" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="260" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="280" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="300" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="320" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="340" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="360" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="380" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="400" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="420" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="440" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="460" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="480" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="500" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="520" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="540" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="560" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="580" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="600" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="620" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="640" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="660" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="680" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="700" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="720" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="740" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="760" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="780" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="800" y="40" width="10" height="10" rx="2" ry="2"/>
+    <rect x="20" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="40" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="60" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="80" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="100" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="120" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="140" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="160" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="180" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="200" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="220" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="240" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="260" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="280" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="300" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="320" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="340" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="360" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="380" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="400" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="420" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="440" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="460" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="480" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="500" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="520" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="540" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="560" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="580" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="600" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="620" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="640" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="660" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="680" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="700" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="720" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="740" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="760" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="780" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="800" y="60" width="10" height="10" rx="2" ry="2"/>
+    <rect x="20" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="40" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="60" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="80" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="100" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="120" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="140" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="160" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="180" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="200" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="220" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="240" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="260" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="280" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="300" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="320" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="340" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="360" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="380" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="400" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="420" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="440" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="460" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="480" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="500" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="520" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="540" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="560" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="580" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="600" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="620" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="640" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="660" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="680" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="700" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="720" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="740" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="760" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="780" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="800" y="80" width="10" height="10" rx="2" ry="2"/>
+    <rect x="20" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="40" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="60" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="80" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="100" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="120" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="140" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="160" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="180" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="200" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="220" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="240" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="260" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="280" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="300" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="320" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="340" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="360" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="380" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="400" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="420" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="440" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="460" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="480" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="500" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="520" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="540" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="560" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="580" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="600" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="620" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="640" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="660" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="680" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="700" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="720" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="740" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="760" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="780" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="800" y="100" width="10" height="10" rx="2" ry="2"/>
+    <rect x="20" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="40" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="60" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="80" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="100" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="120" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="140" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="160" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="180" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="200" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="220" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="240" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="260" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="280" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="300" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="320" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="340" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="360" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="380" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="400" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="420" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="440" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="460" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="480" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="500" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="520" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="540" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="560" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="580" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="600" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="620" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="640" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="660" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="680" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="700" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="720" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="740" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="760" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="780" y="120" width="10" height="10" rx="2" ry="2"/>
+    <rect x="800" y="120" width="10" height="10" rx="2" ry="2"/>
+  </g>
+  <!-- Animated snake path -->
+  <g id="snake" fill="#FFDE21">
+    <rect x="20" y="20" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="0s" />
+    </rect>
+    <rect x="30" y="20" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="0.1s" />
+    </rect>
+    <rect x="40" y="20" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="0.2s" />
+    </rect>
+    <rect x="50" y="20" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="0.3s" />
+    </rect>
+    <rect x="60" y="30" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="0.4s" />
+    </rect>
+    <rect x="70" y="40" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="0.5s" />
+    </rect>
+    <rect x="80" y="50" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="0.6s" />
+    </rect>
+    <rect x="90" y="60" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="0.7s" />
+    </rect>
+    <rect x="100" y="70" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="0.8s" />
+    </rect>
+    <rect x="110" y="80" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="0.9s" />
+    </rect>
+    <rect x="120" y="90" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="1.0s" />
+    </rect>
+    <rect x="130" y="100" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="1.1s" />
+    </rect>
+    <rect x="140" y="110" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="1.2s" />
+    </rect>
+    <rect x="150" y="120" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="1.3s" />
+    </rect>
+    <rect x="160" y="120" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="1.4s" />
+    </rect>
+    <rect x="170" y="120" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="1.5s" />
+    </rect>
+    <rect x="180" y="110" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="1.6s" />
+    </rect>
+    <rect x="190" y="100" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="1.7s" />
+    </rect>
+    <rect x="200" y="90" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="1.8s" />
+    </rect>
+    <rect x="210" y="80" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="1.9s" />
+    </rect>
+    <rect x="220" y="70" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="2.0s" />
+    </rect>
+    <rect x="230" y="60" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="2.1s" />
+    </rect>
+    <rect x="240" y="50" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="2.2s" />
+    </rect>
+    <rect x="250" y="40" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="2.3s" />
+    </rect>
+    <rect x="260" y="30" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="2.4s" />
+    </rect>
+    <rect x="270" y="20" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="2.5s" />
+    </rect>
+    <rect x="280" y="20" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="2.6s" />
+    </rect>
+    <rect x="290" y="20" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="2.7s" />
+    </rect>
+    <rect x="300" y="20" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="2.8s" />
+    </rect>
+    <rect x="310" y="20" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="2.9s" />
+    </rect>
+    <rect x="320" y="30" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="3.0s" />
+    </rect>
+    <rect x="330" y="40" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="3.1s" />
+    </rect>
+    <rect x="340" y="50" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="3.2s" />
+    </rect>
+    <rect x="350" y="60" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="3.3s" />
+    </rect>
+    <rect x="360" y="70" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="3.4s" />
+    </rect>
+    <rect x="370" y="80" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="3.5s" />
+    </rect>
+    <rect x="380" y="90" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="3.6s" />
+    </rect>
+    <rect x="390" y="100" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="3.7s" />
+    </rect>
+    <rect x="400" y="110" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="3.8s" />
+    </rect>
+    <rect x="410" y="120" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="3.9s" />
+    </rect>
+    <rect x="420" y="120" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="4.0s" />
+    </rect>
+    <rect x="430" y="120" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="4.1s" />
+    </rect>
+    <rect x="440" y="110" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="4.2s" />
+    </rect>
+    <rect x="450" y="100" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="4.3s" />
+    </rect>
+    <rect x="460" y="90" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="4.4s" />
+    </rect>
+    <rect x="470" y="80" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="4.5s" />
+    </rect>
+    <rect x="480" y="70" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="4.6s" />
+    </rect>
+    <rect x="490" y="60" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="4.7s" />
+    </rect>
+    <rect x="500" y="50" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="4.8s" />
+    </rect>
+    <rect x="510" y="40" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="4.9s" />
+    </rect>
+    <rect x="520" y="30" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="5.0s" />
+    </rect>
+    <rect x="530" y="20" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="5.1s" />
+    </rect>
+    <rect x="540" y="20" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="5.2s" />
+    </rect>
+    <rect x="550" y="20" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="5.3s" />
+    </rect>
+    <rect x="560" y="20" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="5.4s" />
+    </rect>
+    <rect x="570" y="20" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="5.5s" />
+    </rect>
+    <rect x="580" y="20" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="5.6s" />
+    </rect>
+    <rect x="590" y="20" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="5.7s" />
+    </rect>
+    <rect x="600" y="30" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="5.8s" />
+    </rect>
+    <rect x="610" y="40" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="5.9s" />
+    </rect>
+    <rect x="620" y="50" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="6.0s" />
+    </rect>
+    <rect x="630" y="60" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="6.1s" />
+    </rect>
+    <rect x="640" y="70" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="6.2s" />
+    </rect>
+    <rect x="650" y="80" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="6.3s" />
+    </rect>
+    <rect x="660" y="90" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="6.4s" />
+    </rect>
+    <rect x="670" y="100" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="6.5s" />
+    </rect>
+    <rect x="680" y="110" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="6.6s" />
+    </rect>
+    <rect x="690" y="120" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="6.7s" />
+    </rect>
+    <rect x="700" y="120" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="6.8s" />
+    </rect>
+    <rect x="710" y="120" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="6.9s" />
+    </rect>
+    <rect x="720" y="110" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="7.0s" />
+    </rect>
+    <rect x="730" y="100" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="7.1s" />
+    </rect>
+    <rect x="740" y="90" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="7.2s" />
+    </rect>
+    <rect x="750" y="80" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="7.3s" />
+    </rect>
+    <rect x="760" y="70" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="7.4s" />
+    </rect>
+    <rect x="770" y="60" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="7.5s" />
+    </rect>
+    <rect x="780" y="50" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="7.6s" />
+    </rect>
+    <rect x="790" y="40" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="7.7s" />
+    </rect>
+    <rect x="800" y="30" width="10" height="10" rx="2" ry="2">
+      <animate attributeName="fill" values="#FFDE21;#FFEC8B;#FFDE21" dur="0.5s" repeatCount="indefinite" begin="7.8s" />
+    </rect>
+  </g>
+  <text x="410" y="140" text-anchor="middle" font-family="monospace" font-size="14" fill="#FFDE21">Contribution Snake</text>
+</svg>

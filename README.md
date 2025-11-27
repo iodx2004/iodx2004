@@ -1,3 +1,20 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+Bekkali+👋;I'm+from+Morocco+🇲🇦;I'm+a+Software+Engineer+Beginner+💻;I+Will+Become+Game+Developer+Expert+👾;Welcome+To+My+Account!+ツ)
+
+<img width="25%" align="right" alt="Anime GIF" src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/anime.gif" />
+
+- 🔭 I’m currently working on expanding my programming skills, especially in **Godot Engine, C++, and C**.
+- 🌱 I’m continuously learning and improving my coding abilities.
+- 👯 I’m looking to collaborate on open-source projects and programming challenges.
+- 📫 How to reach me? [Email me](mailto:modistotube2004@gmail.com)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🎓 My Certificates
+[![CS50 Certificate](https://img.shields.io/badge/CS50-Harvard-blue?logo=harvard&logoColor=white)](https://cs50.harvard.edu/certificates/a50df31a-531d-42fb-b633-1774dd6469a1)
+
+---
+
 <p align="center">
   <a href="https://github.com/0-don?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/0-don"/>
@@ -89,108 +106,43 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=0-don&theme=onedark&column=-1)
 
-## ⭐ My Projects
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFDE21&height=120&section=header" />
+</a>
 
-<details>
-  <summary><b>🛡️ &nbsp;Discord</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/0-don/coding.global-bot">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=coding.global-bot&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/0-don/coding.global-web">
-     <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=coding.global-web&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
 
-<details>
-  <summary><b>🌐 &nbsp;Websites</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/0-don/echat">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=echat&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/0-don/privnote">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=privnote&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
+## 💻 Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
-  </p>
-  <p align="center">
-    <a href="https://github.com/0-don/palarm">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=palarm&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/0-don/cashclock">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=cashclock&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
+---
 
-<details>
-  <summary><b>⚙️ &nbsp;DevOps</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/0-don/traefik">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=traefik&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/0-don/portainer">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=portainer&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/0-don/self-hosted-runner">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=self-hosted-runner&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
+## 📊 GitHub Stats
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=iodx2004&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=iodx2004&theme=github_dark&hide_border=false)
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iodx2004&theme=github_dark&hide_border=false&layout=compact)
 
-<details>
-  <summary><b>📱 &nbsp;Mobile</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/0-don/world-of-gaming">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=world-of-gaming&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/0-don/MealsToGo">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=MealsToGo&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
+</div>
 
-<details>
-  <summary><b>🖥️ &nbsp;Desktop</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/0-don/clippy">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=clippy&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/0-don/ColorDetector">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=ColorDetector&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
+---
 
-<details>
-  <summary><b>💻 &nbsp;API</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/0-don/igdb-graphql">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=igdb-graphql&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
+<br>
 
-<details>
-  <summary><b>🔌 &nbsp;IDE Plugins</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/0-don/code-collector">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=code-collector&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/0-don/code-collector-jetbrains">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=0-don&repo=code-collector-jetbrains&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&vCenter=true&width=1000&lines=Have+a+Nice+Day+😉;Thank+You+For+Visiting!+🔎)
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFDE21&height=70&section=footer"/>

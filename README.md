@@ -95,18 +95,23 @@
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=iodx2004&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=iodx2004&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=iodx2004&theme=github_dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=iodx2004&theme=dark&hide_border=true)
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iodx2004&theme=github_dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iodx2004&theme=dark&hide_border=true&layout=compact)
 
 </div>
 
----
+## 📊 Code Statistics
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&vCenter=true&width=1000&lines=Thank+You+For+Visiting+Have+a+Nice+day)
+**Total Lines of Code: 358**
 
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFDE21&height=120&section=footer" />
-</a>
+- **Python**: 274 lines (76.5%)
+- **Shell**: 83 lines (23.2%)
+- **Other**: 1 lines (0.3%)
+
+_Live count updated on: 2025-11-29 15:19:31_
+
+</div>

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated GitHub Stats Dashboard</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="github-stats.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, #0d1117, #161b22);
+            color: #c9d1d9;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            padding: 30px 0;
+            margin-bottom: 30px;
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            color: #8b949e;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .dashboard {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+
+        .repo-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 25px;
+            margin-top: 40px;
+        }
+
+        .chart-container {
+            height: 200px;
+            margin-top: 20px;
+            position: relative;
+        }
+
+        .bar-chart {
+            display: flex;
+            align-items: flex-end;
+            height: 150px;
+            gap: 10px;
+            padding: 20px 0;
+        }
+        
+        @media (max-width: 768px) {
+            .dashboard {
+                grid-template-columns: 1fr;
+            }
+            
+            h1 {
+                font-size: 2.5rem;
+            }
+            
+            .repo-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-chart-line"></i> GitHub Analytics Dashboard</h1>
+            <p class="subtitle">Real-time statistics and repository insights with animated visualizations</p>
+        </header>
+
+        <div class="dashboard">
+            <div class="card">
+                <div class="card-title">
+                    <i class="fas fa-users"></i>
+                    <h2>Profile Statistics</h2>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">
+                        <i class="fas fa-star"></i>
+                        <span>Total Stars</span>
+                    </div>
+                    <div class="stat-value" id="total-stars">0</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">
+                        <i class="fas fa-code-branch"></i>
+                        <span>Repositories</span>
+                    </div>
+                    <div class="stat-value" id="total-repos">0</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">
+                        <i class="fas fa-user-friends"></i>
+                        <span>Followers</span>
+                    </div>
+                    <div class="stat-value" id="followers">0</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">
+                        <i class="fas fa-user"></i>
+                        <span>Following</span>
+                    </div>
+                    <div class="stat-value" id="following">0</div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-title">
+                    <i class="fas fa-chart-pie"></i>
+                    <h2>Code Distribution</h2>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">
+                        <span class="language-dot" style="background: #f34f29;"></span>
+                        <span>JavaScript</span>
+                    </div>
+                    <div class="stat-value">35%</div>
+                </div>
+                <div class="progress-container">
+                    <div class="progress-bar" id="js-bar" style="width: 0%; background: linear-gradient(90deg, #f34f29, #f8c690);"></div>
+                </div>
+                
+                <div class="stat-item">
+                    <div class="stat-label">
+                        <span class="language-dot" style="background: #5a67d8;"></span>
+                        <span>CSS</span>
+                    </div>
+                    <div class="stat-value">20%</div>
+                </div>
+                <div class="progress-container">
+                    <div class="progress-bar" id="css-bar" style="width: 0%; background: linear-gradient(90deg, #5a67d8, #9f9ffd);"></div>
+                </div>
+                
+                <div class="stat-item">
+                    <div class="stat-label">
+                        <span class="language-dot" style="background: #2b7489;"></span>
+                        <span>TypeScript</span>
+                    </div>
+                    <div class="stat-value">25%</div>
+                </div>
+                <div class="progress-container">
+                    <div class="progress-bar" id="ts-bar" style="width: 0%; background: linear-gradient(90deg, #2b7489, #5dbcd2);"></div>
+                </div>
+                
+                <div class="stat-item">
+                    <div class="stat-label">
+                        <span class="language-dot" style="background: #083fa1;"></span>
+                        <span>HTML</span>
+                    </div>
+                    <div class="stat-value">15%</div>
+                </div>
+                <div class="progress-container">
+                    <div class="progress-bar" id="html-bar" style="width: 0%; background: linear-gradient(90deg, #083fa1, #6ea5dc);"></div>
+                </div>
+                
+                <div class="stat-item">
+                    <div class="stat-label">
+                        <span class="language-dot" style="background: #89e051;"></span>
+                        <span>Other</span>
+                    </div>
+                    <div class="stat-value">5%</div>
+                </div>
+                <div class="progress-container">
+                    <div class="progress-bar" id="other-bar" style="width: 0%; background: linear-gradient(90deg, #89e051, #c2f5b5);"></div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-title">
+                    <i class="fas fa-history"></i>
+                    <h2>Activity Overview</h2>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">
+                        <i class="fas fa-code"></i>
+                        <span>Commits (Last 30 days)</span>
+                    </div>
+                    <div class="stat-value" id="commits">0</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">
+                        <i class="fas fa-bug"></i>
+                        <span>Issues Opened</span>
+                    </div>
+                    <div class="stat-value" id="issues-opened">0</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">
+                        <i class="fas fa-check-circle"></i>
+                        <span>Issues Closed</span>
+                    </div>
+                    <div class="stat-value" id="issues-closed">0</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">
+                        <i class="fas fa-project-diagram"></i>
+                        <span>Pull Requests</span>
+                    </div>
+                    <div class="stat-value" id="prs">0</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <h2 style="margin-bottom: 20px; text-align: center;"><i class="fas fa-chart-bar"></i> Contribution Chart</h2>
+            <div class="bar-chart" id="contribution-chart">
+                <!-- Bars will be added by JavaScript -->
+            </div>
+        </div>
+
+        <h2 style="margin: 40px 0 20px; text-align: center;">
+            <i class="fas fa-code-branch"></i> Recent Repositories
+        </h2>
+        <div class="repo-grid" id="repo-grid">
+            <!-- Repository cards will be added by JavaScript -->
+        </div>
+    </div>
+
+    <footer>
+        <p>GitHub Analytics Dashboard &copy; 2023 | Animated Statistics & Repository Insights</p>
+    </footer>
+
+    <script src="github-stats.js"></script>
+</body>
+</html>

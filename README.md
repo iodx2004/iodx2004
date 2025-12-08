@@ -79,16 +79,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iodx2004&theme=dark&hide_border=true&layout=compact)
 
 </div>
-
-## 📊 Code Statistics
-<div align="center">
-
-**Total Lines of Code: 358**
-
-- **Python**: 274 lines (76.5%)
-- **Shell**: 83 lines (23.2%)
-- **Other**: 1 lines (0.3%)
-
-_Live count updated on: 2025-11-29 15:19:31_
-
-</div>

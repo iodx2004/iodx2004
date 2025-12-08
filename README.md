@@ -29,8 +29,6 @@
 ![cpp](https://img.shields.io/badge/c++-black?style=flat-square&logo=c%2B%2B)
 ![assembly](https://img.shields.io/badge/assembly-black?style=flat-square&logo=assembly)
 ![rust](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust)
-![go](https://img.shields.io/badge/go-black?style=flat-square&logo=go)
-![zig](https://img.shields.io/badge/zig-black?style=flat-square&logo=zig)
 
 ### Technologies & Frameworks
 
@@ -45,9 +43,6 @@
 ![gdb](https://img.shields.io/badge/gdb-black?style=flat-square&logo=gdb)
 ![valgrind](https://img.shields.io/badge/valgrind-black?style=flat-square&logo=valgrind)
 ![vulkan](https://img.shields.io/badge/vulkan-black?style=flat-square&logo=vulkan)
-![directx](https://img.shields.io/badge/directx-black?style=flat-square&logo=directx)
-![glfw](https://img.shields.io/badge/glfw-black?style=flat-square&logo=glfw)
-![glut](https://img.shields.io/badge/glut-black?style=flat-square&logo=freeglut)
 
 ### DevOps & Tools
 
